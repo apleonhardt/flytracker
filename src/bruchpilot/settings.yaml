@@ -1,0 +1,106 @@
+---
+# General settings
+framerate: 100.0
+background_subtraction_alpha: 0.02
+background_subtraction_threshold: 5
+
+# Calibration:
+current_calibration:
+
+# Data storage:
+data_folder:
+available_projects:
+  - T4/T5 block
+  - Closed-loop
+  - Optogenetics
+
+---
+#1
+Cam16305931:
+  serial: 16305931
+  type: Chameleon
+  brightness: 1.9
+  exposure: 0.0
+  sharpness: 0
+  gamma: 1.0
+  shutter: 1.8
+  gain: 0.0
+  framerate: 0.0
+  f7:
+    mode: 1
+    offset_x: 0
+    offset_y: 0
+    width: 640
+    height: 512
+
+#2
+Cam16305936:
+  serial: 16305936
+  type: Chameleon
+  brightness: 1.9
+  exposure: 0.0
+  sharpness: 0
+  gamma: 1.0
+  shutter: 1.8
+  gain: 0.0
+  framerate: 0.0
+  f7:
+    mode: 1
+    offset_x: 0
+    offset_y: 0
+    width: 640
+    height: 512
+
+#3
+Cam16368925:
+  serial: 16368925
+  type: Chameleon
+  brightness: 1.9
+  exposure: 0.0
+  sharpness: 0
+  gamma: 1.0
+  shutter: 1.8
+  gain: 0.0
+  framerate: 0.0
+  f7:
+    mode: 1
+    offset_x: 0
+    offset_y: 0
+    width: 640
+    height: 512
+
+#4
+Cam16368920:
+  serial: 16368920
+  type: Chameleon
+  brightness: 1.9
+  exposure: 0.0
+  sharpness: 0
+  gamma: 1.0
+  shutter: 1.8
+  gain: 0.0
+  framerate: 0.0
+  f7:
+    mode: 1
+    offset_x: 0
+    offset_y: 0
+    width: 640
+    height: 512
+
+#5
+Cam16305934:
+  serial: 16305934
+  type: Chameleon
+  brightness: 1.9
+  exposure: 0.0
+  sharpness: 0
+  gamma: 1.0
+  shutter: 1.8
+  gain: 0.0
+  framerate: 0.0
+  f7:
+    mode: 1
+    offset_x: 0
+    offset_y: 0
+    width: 640
+    height: 512
